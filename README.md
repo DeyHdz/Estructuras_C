@@ -24,7 +24,7 @@ gcc ejercicio6.c -o ejercicio6
 ./ejercicio6
 gcc ejercicio7.c -o ejercicio7
 ./ejercicio7
-
+```
 ##📷 Evidencias de Ejecución
 ### Ejercicio 6 - Gestión de Libros
 
