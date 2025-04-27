@@ -21,7 +21,7 @@ Para compilar y ejecutar los ejercicios principales, sigue estos comandos en tu 
 ```bash
 gcc ejercicio6.c -o ejercicio6
 ./ejercicio6
-``
+``` 
 ### Ejercicio 7 (Pacientes Hospital)
 ```bash
 gcc ejercicio7.c -o ejercicio7
