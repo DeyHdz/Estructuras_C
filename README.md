@@ -22,11 +22,14 @@ Para compilar y ejecutar los ejercicios principales, sigue estos comandos en tu 
 ```bash
 gcc ejercicio6.c -o ejercicio6
 ./ejercicio6
+``
+### Ejercicio 7 (Pacientes Hospital)
+```bash
 gcc ejercicio7.c -o ejercicio7
 ./ejercicio7
 ```
 ##📷 Evidencias de Ejecución
-### Ejercicio 6 - Gestión de Libros
+### Ejercicio 6 - Gestión de libros
 
 > Entrada de datos de libros:
 
@@ -34,7 +37,7 @@ gcc ejercicio7.c -o ejercicio7
 
 ---
 
-### Ejercicio 7 - Gestión Dinámica de Empleados en un Departamento
+### Ejercicio 7 - Gestión de pacientes en un hospital
 
 > Ejecución del programa:
 
