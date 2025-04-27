@@ -1,9 +1,8 @@
 # Estructuras_C
-Tarea Esctructuras C
-# 📚 Proyecto de Estructuras en C - Ejercicios 1 al 7
+# 📚 Tarea de Estructuras en C
 
 ## 👩‍💻 Realizado por
-**Deisy Hernández Jovita**
+**Deissy Jovita Hernandez**
 
 ---
 
