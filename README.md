@@ -2,7 +2,7 @@
 # 📚 Tarea de Estructuras en C
 
 ## 👩‍💻 Realizado por
-**Deissy Jovita Hernandez**
+**Deissy Jovita Hernandez Hernandez**
 
 ---
 
@@ -27,10 +27,11 @@ gcc ejercicio6.c -o ejercicio6
 gcc ejercicio7.c -o ejercicio7
 ./ejercicio7
 ```
-###📷 Evidencias de Ejecución
+
+### 📷 Evidencias de Ejecucion
 ### Ejercicio 6 - Gestión de libros
 
-> Entrada de datos de libros:
+> Ejecucion del programa:
 
 ![Entrada de libros](./imagenes/eje6.png)
 
@@ -42,4 +43,4 @@ gcc ejercicio7.c -o ejercicio7
 
 ![Ejecución ejercicio 7](./imagenes/eje7.png)
 
-🚀 ¡Gracias por visitar este Tarea!
+🚀 ¡Gracias por visitar esta Tarea!
